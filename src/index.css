@@ -4,6 +4,7 @@
     margin-bottom: 0;
     background-color: #fff;
 }
+
 @media (min-width: 768px) {
     .jumbotron {
         padding-top: 6rem;
@@ -30,12 +31,15 @@ footer {
 
 footer p {
     margin-bottom: .25rem;
-}.jumbotron {
-     padding-top: 3rem;
-     padding-bottom: 3rem;
-     margin-bottom: 0;
-     background-color: #fff;
- }
+}
+
+.jumbotron {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-bottom: 0;
+    background-color: #fff;
+}
+
 @media (min-width: 768px) {
     .jumbotron {
         padding-top: 6rem;
@@ -62,4 +66,14 @@ footer {
 
 footer p {
     margin-bottom: .25rem;
+}
+
+.home.jumbotron {
+    background-color: rgba(0, 123, 255, .8);
+    background: linear-gradient(rgba(108, 117, 125, 0.8),rgba(0, 123, 255, .8)), url(/home2.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.home.jumbotron p, .home.jumbotron h1 {
+    color: white;
 }
