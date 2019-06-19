@@ -1,0 +1,810 @@
+[
+  {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "l44oyvq4d24p"
+        }
+      },
+      "id": "7Gw0pjBUdQsVtTNCkhWgnR",
+      "type": "Entry",
+      "createdAt": "2019-06-19T03:44:54.263Z",
+      "updatedAt": "2019-06-19T03:44:54.263Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 1,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "work"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "name": "Athletic Junction Events",
+      "slug": "athletic-junction-events",
+      "featuredImage": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "l44oyvq4d24p"
+            }
+          },
+          "id": "65D9jUdVaQfeWKrMawxkMU",
+          "type": "Asset",
+          "createdAt": "2019-06-19T03:44:24.308Z",
+          "updatedAt": "2019-06-19T03:44:24.308Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Athletic Junction Events",
+          "file": {
+            "url": "//images.ctfassets.net/l44oyvq4d24p/65D9jUdVaQfeWKrMawxkMU/9b62c249456521120d19d208b5b0e4c4/Athletic_Junction_Events.jpg",
+            "details": {
+              "size": 23811,
+              "image": {
+                "width": 600,
+                "height": 375
+              }
+            },
+            "fileName": "Athletic%20Junction%20Events.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      "shortDescription": "This was an entire event ticketing system and app I solely built using Laravel and React Native. I went on to create another branch of this project named Events Smarter for the same customer so he could target two different markets. So this ended up being 2 websites each with 1 app for iOS and 1 app for Android that I put in the app store thanks to React Native.",
+      "description": {
+        "data": {},
+        "content": [
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [],
+                "value": "This was an entire event ticketing system and app I solely built using Laravel and React Native. I went on to create another branch of this project named Events Smarter for the same customer so he could target two different markets. So this ended up being 2 websites each with 1 app for iOS and 1 app for Android that I put in the app store thanks to React Native.",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "paragraph"
+          }
+        ],
+        "nodeType": "document"
+      },
+      "link": "https://athleticjunctionevents.com"
+    }
+  },
+  {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "l44oyvq4d24p"
+        }
+      },
+      "id": "3JMvhyLTs8M5ToYDLMwN43",
+      "type": "Entry",
+      "createdAt": "2019-06-19T03:46:58.613Z",
+      "updatedAt": "2019-06-19T03:46:58.613Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 1,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "work"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "name": "Fanoptic",
+      "slug": "fanoptic",
+      "featuredImage": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "l44oyvq4d24p"
+            }
+          },
+          "id": "1OiQ6yKQVJA06xjx3UtgHI",
+          "type": "Asset",
+          "createdAt": "2019-06-19T03:46:48.180Z",
+          "updatedAt": "2019-06-19T03:46:48.180Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Fanoptic",
+          "file": {
+            "url": "//images.ctfassets.net/l44oyvq4d24p/1OiQ6yKQVJA06xjx3UtgHI/96651a84793c37bccefdc65e7782d074/Fanoptic.jpg",
+            "details": {
+              "size": 30957,
+              "image": {
+                "width": 600,
+                "height": 375
+              }
+            },
+            "fileName": "Fanoptic.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      "shortDescription": "NFL Agent Jesse Foreman dreamed of a web app that would enable all sports fans together, chat, talk smack, jeer/cheer each other over every imaginable sport. This site pulls in RSS feeds from hundreds and hundreds of sports websites to supply automatic posts that users can share to boast to their friends with. Jesse has a ton of great ideas for this site, so keep your eye on it!",
+      "description": {
+        "data": {},
+        "content": [
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [],
+                "value": "NFL Agent Jesse Foreman dreamed of a web app that would enable all sports fans together, chat, talk smack, jeer/cheer each other over every imaginable sport. This site pulls in RSS feeds from hundreds and hundreds of sports websites to supply automatic posts that users can share to boast to their friends with. Jesse has a ton of great ideas for this site, so keep your eye on it!",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "paragraph"
+          }
+        ],
+        "nodeType": "document"
+      },
+      "link": "https://fanoptic.com"
+    }
+  },
+  {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "l44oyvq4d24p"
+        }
+      },
+      "id": "2iWNIDT3zDZoYZRotVF8a9",
+      "type": "Entry",
+      "createdAt": "2019-06-19T03:46:07.822Z",
+      "updatedAt": "2019-06-19T03:46:07.822Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 1,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "work"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "name": "Law Credit",
+      "slug": "law-credit",
+      "featuredImage": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "l44oyvq4d24p"
+            }
+          },
+          "id": "4PKNiOR2d7IC3tbeQzjRMz",
+          "type": "Asset",
+          "createdAt": "2019-06-19T03:45:53.938Z",
+          "updatedAt": "2019-06-19T03:45:53.938Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Law Credit",
+          "file": {
+            "url": "//images.ctfassets.net/l44oyvq4d24p/4PKNiOR2d7IC3tbeQzjRMz/6043007ef48cb8b13f5f034d13fc4703/Law_Credit.jpg",
+            "details": {
+              "size": 64171,
+              "image": {
+                "width": 600,
+                "height": 375
+              }
+            },
+            "fileName": "Law%20Credit.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      "shortDescription": "Local sarasota company that connects people looking for legal help financing with a number of different lending companies. You can go to lawcredit.legal, apply, and within a few seconds have multiple offers from multiple lenders.",
+      "description": {
+        "data": {},
+        "content": [
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [],
+                "value": "Local sarasota company that connects people looking for legal help financing with a number of different lending companies. You can go to lawcredit.legal, apply, and within a few seconds have multiple offers from multiple lenders.",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "paragraph"
+          }
+        ],
+        "nodeType": "document"
+      },
+      "link": "https://lawcredit.legal"
+    }
+  },
+  {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "l44oyvq4d24p"
+        }
+      },
+      "id": "Vh9fgyHx6RmtTwiItotSR",
+      "type": "Entry",
+      "createdAt": "2019-06-19T11:03:02.172Z",
+      "updatedAt": "2019-06-19T11:03:02.172Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 1,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "work"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "name": "White's Diesel",
+      "slug": "whites-diesel",
+      "featuredImage": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "l44oyvq4d24p"
+            }
+          },
+          "id": "4zeIODN2skjggMpvzvjocq",
+          "type": "Asset",
+          "createdAt": "2019-06-19T11:02:59.267Z",
+          "updatedAt": "2019-06-19T11:02:59.267Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "White's Diesel",
+          "file": {
+            "url": "//images.ctfassets.net/l44oyvq4d24p/4zeIODN2skjggMpvzvjocq/622f56361d9aa48c5549347ac8542019/White_s_Diesel.jpg",
+            "details": {
+              "size": 30513,
+              "image": {
+                "width": 600,
+                "height": 375
+              }
+            },
+            "fileName": "White's%20Diesel.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      "shortDescription": "Migrated the entire site from OpenCart to WooCommerce, while leaving the site online and ensuring existing orders could function. At the same time I re-organized, redesigned, and launched the new site with an SEO focus, which resulted in sessions per month going from ~600 to ~3000 and 3x the conversion rate.",
+      "description": {
+        "data": {},
+        "content": [
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [],
+                "value": "Migrated the entire site from OpenCart to WooCommerce, while leaving the site online and ensuring existing orders could function. At the same time I re-organized, redesigned, and launched the new site with an SEO focus, which resulted in sessions per month going from ~600 to ~3000 and 3x the conversion rate.",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "paragraph"
+          }
+        ],
+        "nodeType": "document"
+      },
+      "link": "https://whitesdieselperformance.com"
+    }
+  },
+  {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "l44oyvq4d24p"
+        }
+      },
+      "id": "3FoO5UnxWHvn0kOyupKARk",
+      "type": "Entry",
+      "createdAt": "2019-06-19T03:43:40.036Z",
+      "updatedAt": "2019-06-19T03:43:40.036Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 1,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "work"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "name": "Pricefixer",
+      "slug": "pricefixer",
+      "featuredImage": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "l44oyvq4d24p"
+            }
+          },
+          "id": "6o0DOUeCnYa9xgpCYKZnr7",
+          "type": "Asset",
+          "createdAt": "2019-06-19T03:43:30.741Z",
+          "updatedAt": "2019-06-19T03:43:30.741Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Pricefixer",
+          "file": {
+            "url": "//images.ctfassets.net/l44oyvq4d24p/6o0DOUeCnYa9xgpCYKZnr7/565f1bb56b4621dff9f97b149735bb7b/Pricefixer.jpg",
+            "details": {
+              "size": 33427,
+              "image": {
+                "width": 600,
+                "height": 404
+              }
+            },
+            "fileName": "Pricefixer.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      "shortDescription": "WordPress and Laravel Project, this project involved picking up and finishing an entire site redesign. But not only that, we had to to come in and find finish an undelivered quote tool that lets customers self select the perfect AC system for their house.",
+      "description": {
+        "data": {},
+        "content": [
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [],
+                "value": "WordPress and Laravel Project, this project involved picking up and finishing an entire site redesign. But not only that, we had to to come in and find finish an undelivered quote tool that lets customers self select the perfect AC system for their house.",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "paragraph"
+          }
+        ],
+        "nodeType": "document"
+      },
+      "link": "https://pricefixer.com"
+    }
+  },
+  {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "l44oyvq4d24p"
+        }
+      },
+      "id": "7LB1hiULYxE8WABtHfj2G1",
+      "type": "Entry",
+      "createdAt": "2019-06-19T10:58:34.378Z",
+      "updatedAt": "2019-06-19T10:58:34.378Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 1,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "work"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "name": "Stark Premium",
+      "slug": "stark-premium",
+      "featuredImage": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "l44oyvq4d24p"
+            }
+          },
+          "id": "5UmMZhqXezNK7MeGpzB0h1",
+          "type": "Asset",
+          "createdAt": "2019-06-19T10:58:29.650Z",
+          "updatedAt": "2019-06-19T10:58:29.650Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Stark Premium",
+          "file": {
+            "url": "//images.ctfassets.net/l44oyvq4d24p/5UmMZhqXezNK7MeGpzB0h1/903d075fc6f260e0870c470c69428060/Stark_Premium.jpg",
+            "details": {
+              "size": 20048,
+              "image": {
+                "width": 600,
+                "height": 375
+              }
+            },
+            "fileName": "Stark%20Premium.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      "shortDescription": "Stark came to me with already armed with a strong API and a inventory system they were very happy with. They weren't happy with the marketing websites they had to go with however. They wanted a portfolio piece they could show to customers or acquire new customers with and they wanted it to automatically update with their current inventory system. I had our designer come up with a eCommerce theme with them in mind from their existing marketing materials and then I built them a WordPress website with WooCommerce and I custom built them an plugin to consume and sync their existing API.",
+      "description": {
+        "data": {},
+        "content": [
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [],
+                "value": "Stark came to me with already armed with a strong API and a inventory system they were very happy with. They weren't happy with the marketing websites they had to go with however. They wanted a portfolio piece they could show to customers or acquire new customers with and they wanted it to automatically update with their current inventory system. I had our designer come up with a eCommerce theme with them in mind from their existing marketing materials and then I built them a WordPress website with WooCommerce and I custom built them an plugin to consume and sync their existing API.",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "paragraph"
+          }
+        ],
+        "nodeType": "document"
+      },
+      "link": "https://starkpremium.com"
+    }
+  },
+  {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "l44oyvq4d24p"
+        }
+      },
+      "id": "34lGMWoLWk7P25KSgWKgxy",
+      "type": "Entry",
+      "createdAt": "2019-06-19T11:02:13.120Z",
+      "updatedAt": "2019-06-19T11:02:13.120Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 1,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "work"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "name": "Brew Life Video Promo",
+      "slug": "brew-life-video-promo",
+      "shortDescription": "I filmed via Drone and DSLR the event and then edited together this promo piece so it could be used to promote an upcoming event for short/quick facebook ad. Click view site to see all my videos on Vimeo.",
+      "description": {
+        "data": {},
+        "content": [
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [],
+                "value": "I filmed via Drone and DSLR the event and then edited together this promo piece so it could be used to promote an upcoming event for short/quick facebook ad. Click view site to see all my videos on Vimeo.",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "paragraph"
+          }
+        ],
+        "nodeType": "document"
+      },
+      "link": "https://vimeo.com/user18582443",
+      "embed": "<iframe src=\"https://player.vimeo.com/video/300482827\" width=\"600px\" style=\"width:100%\" height=\"200px\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "l44oyvq4d24p"
+        }
+      },
+      "id": "2p89j2nO0fWyrAX2TKOj83",
+      "type": "Entry",
+      "createdAt": "2019-06-19T11:00:20.204Z",
+      "updatedAt": "2019-06-19T11:00:20.204Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 1,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "work"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "name": "7 Lazy P",
+      "slug": "7-lazy-p",
+      "featuredImage": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "l44oyvq4d24p"
+            }
+          },
+          "id": "3Vwoctk5jjoMpMJjg5ag9n",
+          "type": "Asset",
+          "createdAt": "2019-06-19T11:00:12.129Z",
+          "updatedAt": "2019-06-19T11:00:12.129Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "7 Lazy P",
+          "file": {
+            "url": "//images.ctfassets.net/l44oyvq4d24p/3Vwoctk5jjoMpMJjg5ag9n/ba92b852c2892eef35753557f93ebf09/7_Lazy_P.jpg",
+            "details": {
+              "size": 34846,
+              "image": {
+                "width": 600,
+                "height": 375
+              }
+            },
+            "fileName": "7%20Lazy%20P.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      "shortDescription": "Another custom built wordpress theme, this one tripling their website traffic.",
+      "description": {
+        "data": {},
+        "content": [
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [],
+                "value": "Another custom built wordpress theme, this one tripling their website traffic.",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "paragraph"
+          }
+        ],
+        "nodeType": "document"
+      },
+      "link": "https://sevenlazyp.com"
+    }
+  },
+  {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "l44oyvq4d24p"
+        }
+      },
+      "id": "2arASQkXJW8N8tQDmnUskr",
+      "type": "Entry",
+      "createdAt": "2019-06-19T10:59:32.846Z",
+      "updatedAt": "2019-06-19T10:59:32.846Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 1,
+      "contentType": {
+        "sys": {
+          "type": "Link",
+          "linkType": "ContentType",
+          "id": "work"
+        }
+      },
+      "locale": "en-US"
+    },
+    "fields": {
+      "name": "Dream Sporting Trips",
+      "slug": "dream-sporting-trips",
+      "featuredImage": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "l44oyvq4d24p"
+            }
+          },
+          "id": "6sCPZ9FyOw7GwjyLsg8H41",
+          "type": "Asset",
+          "createdAt": "2019-06-19T10:59:10.310Z",
+          "updatedAt": "2019-06-19T10:59:10.310Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Dream Sporting Trips",
+          "file": {
+            "url": "//images.ctfassets.net/l44oyvq4d24p/6sCPZ9FyOw7GwjyLsg8H41/d5f9b72d95e3b073d22d1f5f79618350/Dream_Sporting_Trips.jpg",
+            "details": {
+              "size": 17764,
+              "image": {
+                "width": 600,
+                "height": 375
+              }
+            },
+            "fileName": "Dream%20Sporting%20Trips.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      "shortDescription": "I came on board as employee #1 at DST, a outdoor adventure start up with a focus on connecting customers with guides. I recruited and hired the first 3 other developers, 2 designers, and marketers. I built a number of systems including but limited to the primary guide directory on dreamsportingtrips.com",
+      "description": {
+        "data": {},
+        "content": [
+          {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "marks": [],
+                "value": "I came on board as employee #1 at DST, a outdoor adventure start up with a focus on connecting customers with guides. I recruited and hired the first 3 other developers, 2 designers, and marketers. I built a number of systems including but limited to the primary guide directory on dreamsportingtrips.com",
+                "nodeType": "text"
+              }
+            ],
+            "nodeType": "paragraph"
+          }
+        ],
+        "nodeType": "document"
+      },
+      "link": "https://dreamsportingtrips.com"
+    }
+  }
+]
