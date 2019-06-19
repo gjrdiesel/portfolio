@@ -1,8 +1,10 @@
 import React from 'react';
+import $ from "jquery";
+import "bootstrap/dist/css/bootstrap.min.css"
+import "bootstrap/dist/js/bootstrap.bundle.min"
 
 export default class extends React.Component {
     componentDidMount() {
-        /* global $ */
         $('[data-toggle="tooltip"]').tooltip()
     }
 
