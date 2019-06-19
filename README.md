@@ -1,7 +1,8 @@
 # My Portfolio
-
 Built with [Create React App](https://github.com/facebook/create-react-app), [Contentful](https://contentful.com) and 
 delivered via [Netlify](https://www.netlify.com/)'s global CDN.
+
+![Preview](https://user-images.githubusercontent.com/3363867/59764114-17cc5800-9269-11e9-9f1a-1a3e4125723c.png)
 
 ## Workflow
 I can add (CRUD) projects (and soon blog posts) I've worked on via Contentful which fires a webhook on changes that triggers
