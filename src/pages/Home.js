@@ -5,7 +5,7 @@ import Projects from "../data/work"
 export default () => <div>
     <section className="jumbotron home text-center">
         <div className="container">
-            <img src="/avatar.jpg" className="rounded-circle avatar" width={150}/>
+            <img src="/avatar.jpg" alt="Justin Reasoner" className="rounded-circle avatar" width={150}/>
             <h1 className="jumbotron-heading">Web Developer/Problem Solver</h1>
             <p className="lead">I'm a self taught, highly motivated, and continuously learning problem solver for
                 over 50+ companies. I've designed, sold, lead, built, and delivered 100+ projects ranging from 3k to
@@ -20,7 +20,7 @@ export default () => <div>
 
     <div className="album py-5 bg-light">
         <div className="container">
-            <h2><a name="projects">Recent Projects</a></h2>
+            <h2 className="mb-4"><a href="#projects" name="projects">Recent Projects</a></h2>
             <div className="row">
                 {Projects.map((p, id) => <PreviewCard {...{...p, id, key: id}} />)}
             </div>

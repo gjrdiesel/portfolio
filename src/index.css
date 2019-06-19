@@ -72,6 +72,7 @@ footer p {
     background-color: rgba(0, 123, 255, .8);
     background: linear-gradient(rgba(108, 117, 125, 0.8),rgba(0, 123, 255, .8)), url(/home.jpg) no-repeat center;
     background-size: cover;
+    border-radius: 0;
 }
 
 .home.jumbotron p, .home.jumbotron h1 {
