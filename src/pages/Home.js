@@ -5,6 +5,7 @@ import Projects from "../data/work"
 export default () => <div>
     <section className="jumbotron home text-center">
         <div className="container">
+            <img src="/avatar.jpg" className="rounded-circle avatar" width={150}/>
             <h1 className="jumbotron-heading">Web Developer/Problem Solver</h1>
             <p className="lead">I'm a self taught, highly motivated, and continuously learning problem solver for
                 over 50+ companies. I've designed, sold, lead, built, and delivered 100+ projects ranging from 3k to

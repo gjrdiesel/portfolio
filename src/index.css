@@ -76,4 +76,12 @@ footer p {
 
 .home.jumbotron p, .home.jumbotron h1 {
     color: white;
+    overflow-wrap: break-word;
+}
+
+.avatar {
+    border: 3px solid rgba(255,255,255,.4);
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
 }
