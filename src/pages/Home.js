@@ -12,7 +12,7 @@ export default () => <div>
                 100k, in Laravel, WordPress, and React Native.</p>
             <div>
                 <a href="#projects" className="btn btn-primary my-2 mr-2">View my projects</a>
-                <a href="#"
+                <a href="/"
                    className="btn btn-secondary my-2">Checkout my resume</a>
             </div>
         </div>
